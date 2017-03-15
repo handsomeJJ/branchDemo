@@ -16,6 +16,7 @@
 		FA6AD4EF1E78D4CD004F3A2F /* branchDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6AD4EE1E78D4CD004F3A2F /* branchDemoTests.m */; };
 		FA6AD4FA1E78D4CD004F3A2F /* branchDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6AD4F91E78D4CD004F3A2F /* branchDemoUITests.m */; };
 		FA6AD5091E78D646004F3A2F /* developViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6AD5081E78D646004F3A2F /* developViewController.m */; };
+		FA6AD50C1E78D6E5004F3A2F /* textViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6AD50B1E78D6E5004F3A2F /* textViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		FA6AD4FB1E78D4CD004F3A2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA6AD5071E78D646004F3A2F /* developViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = developViewController.h; sourceTree = "<group>"; };
 		FA6AD5081E78D646004F3A2F /* developViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = developViewController.m; sourceTree = "<group>"; };
+		FA6AD50A1E78D6E5004F3A2F /* textViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = textViewController.h; sourceTree = "<group>"; };
+		FA6AD50B1E78D6E5004F3A2F /* textViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = textViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				FA6AD4DB1E78D4CC004F3A2F /* ViewController.m */,
 				FA6AD5071E78D646004F3A2F /* developViewController.h */,
 				FA6AD5081E78D646004F3A2F /* developViewController.m */,
+				FA6AD50A1E78D6E5004F3A2F /* textViewController.h */,
+				FA6AD50B1E78D6E5004F3A2F /* textViewController.m */,
 				FA6AD4DD1E78D4CC004F3A2F /* Main.storyboard */,
 				FA6AD4E01E78D4CC004F3A2F /* Assets.xcassets */,
 				FA6AD4E21E78D4CC004F3A2F /* LaunchScreen.storyboard */,
@@ -281,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA6AD50C1E78D6E5004F3A2F /* textViewController.m in Sources */,
 				FA6AD5091E78D646004F3A2F /* developViewController.m in Sources */,
 				FA6AD4DC1E78D4CC004F3A2F /* ViewController.m in Sources */,
 				FA6AD4D91E78D4CC004F3A2F /* AppDelegate.m in Sources */,
